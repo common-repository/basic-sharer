@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Basic Sharer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-26 09:32+0000\n"
+"PO-Revision-Date: 2023-05-27 14:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: basic_sharer"
+
+#. Author of the plugin
+msgid "Angel Aparicio"
+msgstr "Ángel Aparicio"
+
+#. Name of the plugin
+msgid "Basic Sharer"
+msgstr "Basic Sharer"
+
+#: options_page.php:3
+msgid "Basic Sharer Options"
+msgstr "Opciones"
+
+#. Author URI of the plugin
+msgid "https://angelaparicio.dev"
+msgstr "https://angelaparicio.dev"
+
+#: basic-sharer.php:44
+msgid "Share"
+msgstr "Compartir"
+
+#: options_page.php:7
+msgid "Social Networks to include"
+msgstr "Redes sociales incluidas"
+
+#: basic-sharer.php:74
+msgid "Updated"
+msgstr "Actualizado"
+
+#. Description of the plugin
+msgid "Very simple plugin to add share links"
+msgstr "Plugin muy simple para añadir links de compartir"
